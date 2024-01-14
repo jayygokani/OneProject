@@ -1,0 +1,2 @@
+This is new branch created called 'feature-1.0'
+
